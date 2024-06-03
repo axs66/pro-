@@ -1,3 +1,3 @@
-# A先生's Repository
+# Axs Repository
 
 This is a Self-use Software Source
