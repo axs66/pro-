@@ -1,0 +1,110 @@
+Package: MisakaHelper
+Version: 2.1-0-END
+Architecture: iphoneos-arm64
+Essential: no
+Maintainer: Misaka
+Depends: mobilesubstrate
+Conflicts: MisakaHelper
+Replaces: MisakaHelper
+Provides: MisakaHelper
+Filename: ./debs/MisakaHelper_2.1-0-END_iphoneos-arm64.deb
+Size: 13177936
+MD5sum: c3b0a1b0e55102b3c705fbd968059045
+SHA1: 418871894a4370bff106e7c99b8c61bd3d97e70d
+SHA256: 97103cafb20d5e654d0e47c94afb52be06c3a4e135ec42bea4ec06510051ec32
+Section: 微信插件
+Priority: optional
+Description: MisakaHelper
+Author: Misaka
+Icon: https://axs66.github.io/repo/icon/wechat.png
+Name: MisakaHelper
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/Misaka/js.json
+
+Package: cn.null.fuckwechatadblocker
+Version: 0.0.1-2+debug
+Architecture: iphoneos-arm64
+Maintainer: null
+Installed-Size: 104
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/cn.null.fuckwechatadblocker_0.0.1-2+debug_iphoneos-arm64.deb
+Size: 16828
+MD5sum: aab51ab8389d353a506b526a18addff3
+SHA1: 6caa36bdeea30f64f915e59f56aee365d3a4f70d
+SHA256: 36681494315ae53849f91c8740e87426b7665efdd9edf9a5b1cbca1c96617664
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: null
+Name: FuckWeChatAdBlocker
+
+Package: com.Axs.wctextcolor
+Version: 1.5
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 160
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.Axs.wctextcolor_1.5_iphoneos-arm64.deb
+Size: 21964
+MD5sum: 447e5007c366fbd5306454c74672bec0
+SHA1: 974bd732fbb9a0ab008aaf0dde2edb2191f17ea0
+SHA256: 883a5707182c570e1eeff34e53fb7842410819c40f5fe2380ea0d46207636412
+Section: 微信插件
+Description: 微信输入框圆角，预选字改色。
+Author: Axs
+Icon: https://axs66.github.io/repo/icon/wechat.png
+Name: WCTextColor
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/wctextcolor/js.json
+
+Package: com.nx.appcardlite
+Version: 3.3.3-END
+Architecture: iphoneos-arm64
+Maintainer: Crassna
+Installed-Size: 1948
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 15.0)
+Filename: ./debs/com.nx.appcardlite_3.3.3-END_iphoneos-arm64.deb
+Size: 408756
+MD5sum: 72bfa9fdf7c52f9dc871ef829c281ed1
+SHA1: 4bc4e08ff3f32d66b3568d84ad0f0763e1e866ec
+SHA256: b5612f3de02468383ef8fb93faf943924080bdae7c601cef6fea3ab7ec12213f
+Section: 分屏插件
+Description: Jailbrea!
+Author: Crassna
+Icon: https://axs66.github.io/repo/icon/applecard.png
+Name: App Lecard 分屏插件
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/applecard/js.json
+
+Package: com.tencent.themebox
+Version: 1.0.1-1
+Architecture: iphoneos-arm64
+Maintainer: WeChat
+Installed-Size: 3708
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.tencent.themebox_1.0.1-1_iphoneos-arm64.deb
+Size: 1706196
+MD5sum: bb7397a2e9e3cfd4df4e347ae6e07438
+SHA1: b37baefebb6d3f58db80482f5acd97ed81d7b3ef
+SHA256: c97e4e2f8b55ac2afa22eecbdcbd3120e4e2c6917c30b1a046f7a72de757c451
+Section: 微信插件
+Description: An awesome MobileSubstrate tweak!
+Author: WeChat
+Icon: https://axs66.github.io/repo/icon/wechat.png
+Name: 主题盒子
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/themebox/js.json
+
+Package: netskao.wechatpurification
+Version: 4.2-6-END
+Architecture: iphoneos-arm64
+Maintainer: Netskao
+Installed-Size: 16708
+Depends: mobilesubstrate, firmware (>= 12.0)
+Filename: ./debs/netskao.wechatpurification_4.2-6-END_iphoneos-arm64.deb
+Size: 6273720
+MD5sum: 67884a9f6f178172138261ecc8a2d269
+SHA1: 921bb2abd400ed96d0f92199f076d5a665a5b116
+SHA256: ed4a80dda7fc43f83e015b5353d94e2d34c73d3076260e65f44fb6174a08350c
+Section: 微信插件
+Description: 微信净化，还原聊天本质，干净的微信给你，仅支持8.0.29及以上版本，设置位于微信-设置
+Author: Netskao
+Icon: https://axs66.github.io/repo/icon/wechat.png
+Name: 微信净化END
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/wcpureextension/js.json
+
