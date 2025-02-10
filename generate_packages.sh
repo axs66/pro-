@@ -26,7 +26,7 @@ fi
 
 # Generate the Packages file
 echo "Generating Packages file..."
-dpkg-scanpackages -m "$DEB_DIR" -v > Packages
+dpkg-scanpackages -m "$DEB_DIR" > Packages
 
 # Check if Packages file was generated successfully
 if [ ! -f "Packages" ]; then
