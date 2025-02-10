@@ -31,6 +31,6 @@ Suite: stable
 Version: 1.0
 Codename: Axs Pro
 Architectures: iphoneos-arm64 iphoneos-arm64e iphoneos-arm
-Components: main
+Components: master
 Description: 自用插件分享，有问题请卸载！！！
 EOF
