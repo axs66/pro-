@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: write  # 修改为写权限
+  contents: write
   pages: write
   id-token: write
 
@@ -36,16 +36,17 @@ jobs:
         env:
           PERSONAL_TOKEN: ${{ secrets.PAT }}
 
-      - name: Output Packages files
-        run: ls -l Packages*  # 列出所有相关文件以进行调试
+      - name: Debugging Packages files
+        run: |
+          ls -l Packages*  # 查看生成的 Packages 文件
+          cat Packages     # 确认内容是否更新
 
       - name: Commit updated Packages
         run: |
           git config --local user.name "github-actions"
           git config --local user.email "actions@github.com"
-          git add Packages Packages.bz2 Packages.gz  # 添加所有相关文件
-          git commit -m "Update Packages" || echo "No changes to commit"
-          # 解决冲突，尝试先拉取远程分支
+          git add Packages Packages.bz2 Packages.gz
+          git commit -m "Update Packages files" || echo "No changes to commit"
           git pull --rebase origin main || echo "No updates to pull"
           git push https://${{ secrets.PAT }}@github.com/axs66/pro.git HEAD:main || \
           (echo "Retrying with force push..." && git push --force https://${{ secrets.PAT }}@github.com/axs66/pro.git HEAD:main)
