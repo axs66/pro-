@@ -369,22 +369,6 @@ Icon: https://axs66.github.io/repo/icon/tinge.png
 Name: Tinge角标自适应
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/tinge/js.json
 
-Package: com.sunshinesong.dynamic-notifier
-Version: 1.0.4
-Architecture: iphoneos-arm64
-Maintainer: sunshinesong
-Installed-Size: 812
-Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
-Filename: ./debs/com.sunshinesong.dynamic-notifier_1.0.4_iphoneos-arm64.deb
-Size: 212754
-MD5sum: 45db94dc837cb87dda7f44dc0d87d833
-SHA1: c71a725e4ae55619af446c9e5959ea701f05ac8e
-SHA256: f7fd9a836eb9fd4f60278b8e6ef27312c0db17e0163ebec6c607c7f4e4380b1a
-Section: Tweaks
-Description: 灵动消息，就是这么简单。仅仅支持iOS16+ (14pro,14pro max)。only support above ios16.0(14pro and 14pro max)
-Author: sunshinesong
-Name: dynamic-notifier
-
 Package: com.tencent.themebox
 Version: 1.0.1-1
 Architecture: iphoneos-arm64
