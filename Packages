@@ -20,22 +20,6 @@ Icon: https://axs66.github.io/repo/icon/wechat.png
 Name: MisakaHelper
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/Misaka/js.json
 
-Package: cn.null.fuckwechatadblocker
-Version: 0.0.1-2+debug
-Architecture: iphoneos-arm64
-Maintainer: null
-Installed-Size: 104
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/cn.null.fuckwechatadblocker_0.0.1-2+debug_iphoneos-arm64.deb
-Size: 16828
-MD5sum: aab51ab8389d353a506b526a18addff3
-SHA1: 6caa36bdeea30f64f915e59f56aee365d3a4f70d
-SHA256: 36681494315ae53849f91c8740e87426b7665efdd9edf9a5b1cbca1c96617664
-Section: Tweaks
-Description: An awesome MobileSubstrate tweak!
-Author: null
-Name: FuckWeChatAdBlocker
-
 Package: com.Axs.wctextcolor
 Version: 1.5
 Architecture: iphoneos-arm64
