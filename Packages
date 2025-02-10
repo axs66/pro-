@@ -38,24 +38,6 @@ Icon: https://axs66.github.io/repo/icon/kayoko.png
 Name: Kayoko
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
 
-Package: com.0xkuj.notificationsgroupcounts
-Version: 1.0.4
-Architecture: iphoneos-arm64
-Maintainer: 0xkuj
-Installed-Size: 416
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.0xkuj.notificationsgroupcounts_1.0.4_iphoneos-arm64.deb
-Size: 68004
-MD5sum: a70b8e41fc3c09c880bc761a9efbb5aa
-SHA1: 0841852d0d36328c981b2d3fd81abad137ad4f5f
-SHA256: 203a617a257ae87c51220f9b3b56794273952f2ef603139f09c04fba4100e598
-Section: 系统增强
-Description: Count those notifications inside Apple notifications grouping!
-Author: 0xkuj
-Icon: https://axs66.github.io/repo/icon/notificationsgroupcounts.png
-Name: 仿ios18通知分组计数
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
-
 Package: com.25mao.doutu.rootless
 Version: 3.1-5
 Architecture: iphoneos-arm64
