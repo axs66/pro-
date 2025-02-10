@@ -20,6 +20,172 @@ Icon: https://axs66.github.io/repo/icon/wechat.png
 Name: MisakaHelper
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/Misaka/js.json
 
+Package: codes.aurora.kayoko
+Version: 2.7
+Architecture: iphoneos-arm64
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 936
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
+Filename: ./debs/codes.aurora.kayoko_2.7_iphoneos-arm64.deb
+Size: 123820
+MD5sum: d6f3462d42cb6441038045037f311dcd
+SHA1: f665ea45f1f98ac4f74f7d24298489ceacedbe1e
+SHA256: d29dd71c9f6b03bd5ea2b62386e17bb310e31b7a05a4b736c88a18cf26db5cc4
+Section: 系统增强
+Description: Clipboard manager for iOS.
+Author: Alexandra Aurora Göttlicher
+Icon: https://axs66.github.io/repo/icon/kayoko.png
+Name: Kayoko
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
+
+Package: com.0xkuj.notificationsgroupcounts
+Version: 1.0.4
+Architecture: iphoneos-arm64
+Maintainer: 0xkuj
+Installed-Size: 416
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.0xkuj.notificationsgroupcounts_1.0.4_iphoneos-arm64.deb
+Size: 68004
+MD5sum: a70b8e41fc3c09c880bc761a9efbb5aa
+SHA1: 0841852d0d36328c981b2d3fd81abad137ad4f5f
+SHA256: 203a617a257ae87c51220f9b3b56794273952f2ef603139f09c04fba4100e598
+Section: 系统增强
+Description: Count those notifications inside Apple notifications grouping!
+Author: 0xkuj
+Icon: https://axs66.github.io/repo/icon/notificationsgroupcounts.png
+Name: 仿ios18通知分组计数
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
+
+Package: com.25mao.doutu.rootless
+Version: 3.1-5
+Architecture: iphoneos-arm64
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0)
+Filename: ./debs/com.25mao.doutu.rootless_3.1-5_iphoneos-arm64.deb
+Size: 1212348
+MD5sum: dd4af8e6c95440e65fb8ec2a0c5d713a
+SHA1: 0f484b66d5eae75bdbdeb408b4c88f048b57cfd7
+SHA256: 17684bc658a4802561fc6ec1d37da6467d89c491bcf47c8b8b81e751266ed84b
+Section: 微信插件
+Priority: optional
+Description: 斗图助手-Rootless
+Author: Mao
+Icon: https://axs66.github.io/repo/icon/wechat.png
+Name: 斗图助手-Rootless
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/doutu/js.json
+Sponsor: admin@25mao.com
+
+Package: com.25mao.leftpan.rootless
+Version: 1.0-6
+Architecture: iphoneos-arm64
+Maintainer: admin@25mao.com
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist (>=1.0.4)
+Filename: ./debs/com.25mao.leftpan.rootless_1.0-6_iphoneos-arm64.deb
+Size: 44296
+MD5sum: d131aaac8b31204c6d1b4620ccbbfe33
+SHA1: 69761e0b26feb0fd1dab379f3450991a26973f2e
+SHA256: 3fc22983c3def3a19d0a15eb7925565e264dade8996ada6cb7f2a78264b8ce92
+Section: 系统增强
+Priority: optional
+Description: 左滑返回上一页面
+Author: Mao
+Icon: https://axs66.github.io/repo/icon/zuohua.png
+Name: 左滑返回-Rootless
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
+
+Package: com.25mao.miyou.rootless
+Version: 3.8-0
+Architecture: iphoneos-arm64
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0)
+Filename: ./debs/com.25mao.miyou.rootless_3.8-0_iphoneos-arm64.deb
+Size: 10164692
+MD5sum: fab4a95b81b4b209d6e1933dd78bb33c
+SHA1: ff2f91b0bc8df9027012a2e21d2fa792e610123a
+SHA256: f4235d70320a26ea4708ed2a9c57817482a66a592b237bb253cac947861be254
+Section: 微信插件
+Priority: optional
+Description: 微信助手
+Author: Mao
+Icon: https://axs66.github.io/repo/icon/wechat.png
+Name: 微信助手
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/miyou/js.json
+
+Package: com.Axs.onesettings
+Version: 2.2
+Architecture: iphoneos-arm64
+Maintainer: Nightwind <nightwinddev@gmail.com>
+Installed-Size: 1084
+Depends: firmware (>= 14.0), mobilesubstrate (>= 0.9.5000), com.mrgcgamer.libgcuniversal, preferenceloader
+Conflicts: com.creaturecoding.shuffle
+Replaces: com.twickd.nightwind.onesettings
+Filename: ./debs/com.Axs.onesettings_2.2_iphoneos-arm64.deb
+Size: 206996
+MD5sum: 04f0e9d4e003361f296d59c30d2b291f
+SHA1: b3a8e8b6f8338007e6901bf959fbf5d156f23bdd
+SHA256: 92a7dbc9572b5c674e69f0a8cdcb2b6fb1d2061f61f0ae7d58431fbfdeaeede8
+Section: 越狱插件收纳
+Description: A great enhancement to your Settings App!
+Tag: cydia::commercial, compatible_min::ios14.0
+Author: Nightwind <nightwinddev@gmail.com>
+Icon: https://axs66.github.io/repo/icon/onesettings.png
+Name: OneSettings
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/onesettings/js.json
+
+Package: com.Axs.split-view-pro
+Version: 1.3.7
+Architecture: iphoneos-arm64
+Maintainer: sunshinesong
+Installed-Size: 5624
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), preferenceloader, com.opa334.altlist
+Filename: ./debs/com.Axs.split-view-pro_1.3.7_iphoneos-arm64.deb
+Size: 1538784
+MD5sum: aa3331016ec2efe213fe2eedb71dd058
+SHA1: 6f9be1c10ba707d7ba820c40fcadd329647a9b04
+SHA256: cf191ce1d6a7752941b0d1b1b3b75ea5e2d4e2dba22775e5c1adc47a4a80f206
+Section: 分屏插件
+Description: 分屏，不必太复杂，一切从简即可。
+Author: sunshinesong
+Icon: https://axs66.github.io/repo/icon/svp.png
+Name: Svp分屏独立版(rootless)
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/svp/js.json
+Ts: sp-sss
+
+Package: com.Axs.swipeextender
+Version: 1.6.1~2
+Architecture: iphoneos-arm64
+Maintainer: MiRO
+Installed-Size: 614
+Depends: firmware (>=14.0), mobilesubstrate, org.thebigboss.libcolorpicker
+Filename: ./debs/com.Axs.swipeextender_1.6.1~2_iphoneos-arm64.deb
+Size: 85428
+MD5sum: 23c65de2cfdd57faca08658d0dcf4eb8
+SHA1: 8474d8e9b61335f3347adcea80f468011e740b36
+SHA256: b41e76dd869d0a6f5ab8d54a58d57c90216f26597ddc5789791bdbee8d04a151
+Section: 系统增强
+Description: 通过传奇的 SwipeExpander 调整的完全重制，重塑您的键盘，专为现代 iOS 设计！
+Author: MiRO
+Icon: https://axs66.github.io/repo/sileodepiction/SwipeExtenderX/icon.png
+Name: SwipeExtenderX
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/SwipeExtenderX/js.json
+
+Package: com.Axs.touchvis
+Version: 2.8-1
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/com.Axs.touchvis_2.8-1_iphoneos-arm64.deb
+Size: 708676
+MD5sum: 31aca45fd3c93136c32ba3e7984a34c5
+SHA1: 21e243d18116f278f3678c4c0c9b8b696a9b599e
+SHA256: 78341b31a152ae77f5d4334652ac7cdc8092fc7b16a19798f7d39f99dcddf82a
+Section: 录屏轨迹
+Description: Displays your touch interactions! 显示触摸屏幕的轨迹；很酷炫，很丝滑的一个插件，并附带拖尾效果。主要作用:做教程时候让别人知道你点的哪里。
+Author: Lessica
+Icon: https://axs66.github.io/repo/icon/TVZ.png
+Name: Touch-Viz触摸轨迹
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/touchvis/js.json
+
 Package: com.Axs.wctextcolor
 Version: 1.5
 Architecture: iphoneos-arm64
@@ -37,6 +203,149 @@ Author: Axs
 Icon: https://axs66.github.io/repo/icon/wechat.png
 Name: WCTextColor
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/wctextcolor/js.json
+
+Package: com.edge.siri
+Version: 3.1.1-9
+Architecture: iphoneos-arm64
+Maintainer: tangerine
+Installed-Size: 204
+Depends: mobilesubstrate
+Filename: ./debs/com.edge.siri_3.1.1-9_iphoneos-arm64.deb
+Size: 15272
+MD5sum: bda30a776ca599c94f21594eb84561ea
+SHA1: 41227a17ab158dd45e8e7cde648df3e0e4036597
+SHA256: c61ac671e299ff3e5f6eab425328bea8cd4ecf5e26608092e2754e6d5e1cd1b1
+Section: 系统增强
+Description: 模仿iOS18唤醒Siri边框效果，无设置项。安装即生效-----EdgeSiri是一款为 iOS设计的越狱插件，它能够在 Siri 激活时在屏幕周围显示彩色边框。这个边框不仅增加了视觉吸引力，还能在 Siri 被使用时提供更加直观的反馈。
+Author: tangerine
+Icon: https://axs66.github.io/repo/icon/siri.png
+Name: EdgeSiri
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/edgesiri/js.json
+
+Package: com.hitori.misaki
+Version: 2.2
+Architecture: iphoneos-arm64
+Maintainer: Hitori <mikasa-san@outlook.jp>
+Installed-Size: 1049
+Depends: mobilesubstrate, preferenceloader, ws.hbang.alderis
+Filename: ./debs/com.hitori.misaki_2.2_iphoneos-arm64.deb
+Size: 306010
+MD5sum: ef1edc9b18fbb51d4dfbc975e83e91c1
+SHA1: 519184fb27896871592eb37379b5548cc1db059e
+SHA256: faa4720fe55c2367a130b3cc6325f1e79ab84a71d0f285be244a3d7689727a60
+Section: Tweaks
+Description: Customize your iOS 15 & 16 experience with Misaki. customization options to make your iPhone truly yours.
+Tag: cydia::commercial, compatible_min::ios15.0
+Author: Hitori <mikasa-san@outlook.jp>
+Depiction: https://chariz.com/buy/misaki
+Icon: https://img.chariz.cloud/icon/misaki/icon@3x.png
+Name: Misaki
+
+Package: com.jontelang.snapper3
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: jontelang
+Depends: mobilesubstrate, firmware(>=15.0), preferenceloader
+Conflicts: com.jontelang.snapper, com.jontelang.snapper2.packix, xyz.cypwn.snapperfr33, xyz.cypwn.snapper3
+Filename: ./debs/com.jontelang.snapper3_1.0_iphoneos-arm64.deb
+Size: 911300
+MD5sum: 3891dd6bcc9f73220e875e282f5c846e
+SHA1: e8ad6245ebcf19059beef37eef241b6b3d7a6216
+SHA256: f874a05881a4021de66b6dc7e1df508ba2227a16987623f2faed22014f43e7fb
+Section: 系统增强
+Description: 便捷截屏3。
+Author: Jonathan Winger-lang
+Icon: https://axs66.github.io/repo/icon/Snapper3.png
+Name: Snapper 3
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/Snapper/js.json
+
+Package: com.lclrc.hammerit
+Version: 1.7.1
+Architecture: iphoneos-arm64
+Maintainer: lclrc(SquidForce)
+Installed-Size: 3808
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist, com.opa334.ccsupport, com.opa334.libsandy, firmware (>= 14.0)
+Filename: ./debs/com.lclrc.hammerit_1.7.1_iphoneos-arm64.deb
+Size: 977970
+MD5sum: d70699b93e4c1d86aa21a963427ca3cd
+SHA1: 575137e624ea6d038c4ab4dcc7da9a01ee417fc6
+SHA256: 541973ff6c9099deae095555627ee2d6c04d405e39ffff5e75a9751d22636cc2
+Section: Tweaks
+Description: Control your text or translate as you wish.
+Author: lclrc(SquidForce)
+Icon: file:///var/jb/Library/PreferenceBundles/HammerItPrefs.bundle/HammerIt@3x.png
+Name: Hammer It
+
+Package: com.netskao.appdata
+Version: 1.4.1
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 14408
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/com.netskao.appdata_1.4.1_iphoneos-arm64.deb
+Size: 4637852
+MD5sum: 7c02190692158746803f6ccb3a10a708
+SHA1: 27458e206f55e2c25e7394d5848e0ea709bf288c
+SHA256: ba8a51c489687cd2b0b0528b17cc3a9ca8927d513f20b207bde69c720a8f5be8
+Section: Netskao-Tweaks
+Description: 桌面图标上滑或下滑或3D长按菜单选择即可唤出图标应用数据快捷工具，此版本由站长完整汉化并修改优化。修改优化:增加简单版降级应用，增加可选向下滑动唤出，增加查看应用加密状态，增加面板可选去除面板分割线，增加长按面板图标以安全模式启动，修改原版卸载应用为真实卸载不保留数据，修改原版清除缓存后未同步刷新总数据显示问题，修复原版更多信息页面长按复制的信息错误问题，修改原版重置数据为包括重置程序组内文件夹数据，修改原版重置数据栏数据大小显示为包括程序组内文件夹数据，修改原版重置数据后未同步刷新缓存数据显示和权限个数显示问题，修改原版在非AppStore中下载的应用唤出时无法使用重置数据/重置权限/卸载应用(修改后仅在系统应用上禁止)
+Author: Fouad Raheb
+Name: AppData
+
+Package: com.netskao.appdata
+Version: 1.4.4
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 13548
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/com.netskao.appdata_1.4.4_iphoneos-arm64.deb
+Size: 5050736
+MD5sum: 8c5135f7b06fbc2525593394f3dd9cc7
+SHA1: b08f08ad32eba4721cdd416faaf4ce2ed694dc40
+SHA256: 74adfef4f378853d51bdffe9b09e3c0c1c1cc0ee17fd62c5ea8c11744be92ea8
+Section: 系统增强
+Description: View & Manage Applications Data from your Home Screen
+Author: Fouad Raheb
+Icon: https://axs66.github.io/repo/icon/Appdata.png
+Name: AppData
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/appdata/js.json
+
+Package: com.netskao.dumpdecrypter
+Version: 1.5-1
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 952
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: ./debs/com.netskao.dumpdecrypter_1.5-1_iphoneos-arm64.deb
+Size: 393824
+MD5sum: bcda94b96b0acb4cd6af35914bbf2426
+SHA1: 4ab19ac98643a8ee92e9fc27cebd1843cd231bc7
+SHA256: 4bdf30f3a1fed4f91a136e93d975a765dbc5c76fa24ca4b87b90ee0b3d1825cf
+Section: 系统增强
+Description: Decrypt iOS Apps and Plugins, Supports iOS15+, Only Tested iOS16.1
+Author: Netskao
+Icon: https://axs66.github.io/repo/icon/dumpdecrypter.png
+Name: DumpDecrypter
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/dumpdecrypter/js.json
+
+Package: com.netskao.pulloverpro
+Version: 2.1.6
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 2440
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Conflicts: com.c1d3r.pulloverpro
+Filename: ./debs/com.netskao.pulloverpro_2.1.6_iphoneos-arm64.deb
+Size: 696408
+MD5sum: 90d9cf26b0dcfa34ee1c5e8c1e20e1e4
+SHA1: e4d4b1f82f5dfafe4043d30ceea9c0c6ebc226bb
+SHA256: df4f908e31986305327ac0987c2da2d3a1cf8654cbc33dc4d7ba2d7d103073ec
+Section: 分屏插件
+Description: A better way to multitask! Fix support for iOS15+
+Author: c1d3r
+Icon: https://axs66.github.io/repo/icon/PullOverPro.png
+Name: PullOver Pro
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
 
 Package: com.nx.appcardlite
 Version: 3.3.3-END
@@ -56,6 +365,63 @@ Icon: https://axs66.github.io/repo/icon/applecard.png
 Name: App Lecard 分屏插件
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/applecard/js.json
 
+Package: com.opa334.choicy
+Version: 1.5
+Architecture: iphoneos-arm64
+Maintainer: BigBoss
+Installed-Size: 1114
+Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.altlist (>= 1.0.4)
+Filename: ./debs/com.opa334.choicy_1.5_iphoneos-arm64.deb
+Size: 159340
+MD5sum: 1a2a969077fd8bf3bce69950e1428476
+SHA1: 0a762af5f37ae9b3292ca87d9495cd82283c337e
+SHA256: 2c24a35aa0efc1146b5ab8e432b146e86a4d24155bf18b633b4e95db0bd730d6
+Section: 系统增强
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=choicyDp
+Description: Advanced Tweak Configuration!
+Tag: purpose::extension
+Author: opa334
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=choicyDp
+Dev: opa334
+Icon: file:///Library/PreferenceBundles/ChoicyPrefs.bundle/ChoicyIcon@2x.png
+Name: Choicy
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: com.p2kdev.tinge
+Version: 1.2.2
+Architecture: iphoneos-arm64
+Maintainer: P2KDev
+Installed-Size: 436
+Depends: firmware (>= 15.0),mobilesubstrate,preferenceloader,org.thebigboss.libcolorpicker
+Filename: ./debs/com.p2kdev.tinge_1.2.2_iphoneos-arm64.deb
+Size: 41012
+MD5sum: 554bcfd2afd40b63dc31f973f356e21d
+SHA1: 6abde450f90d1b8ed5850ce9be4d5919f22892b0
+SHA256: 12fe87ab5152d37225d9e1eb13ec0a7356580f8a90ab089da1870c3eae4ac756
+Section: 系统增强
+Description: Color your badges with Perfection!
+Author: P2KDev
+Icon: https://axs66.github.io/repo/icon/tinge.png
+Name: Tinge角标自适应
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/tinge/js.json
+
+Package: com.sunshinesong.dynamic-notifier
+Version: 1.0.4
+Architecture: iphoneos-arm64
+Maintainer: sunshinesong
+Installed-Size: 812
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/com.sunshinesong.dynamic-notifier_1.0.4_iphoneos-arm64.deb
+Size: 212754
+MD5sum: 45db94dc837cb87dda7f44dc0d87d833
+SHA1: c71a725e4ae55619af446c9e5959ea701f05ac8e
+SHA256: f7fd9a836eb9fd4f60278b8e6ef27312c0db17e0163ebec6c607c7f4e4380b1a
+Section: Tweaks
+Description: 灵动消息，就是这么简单。仅仅支持iOS16+ (14pro,14pro max)。only support above ios16.0(14pro and 14pro max)
+Author: sunshinesong
+Name: dynamic-notifier
+
 Package: com.tencent.themebox
 Version: 1.0.1-1
 Architecture: iphoneos-arm64
@@ -74,6 +440,42 @@ Icon: https://axs66.github.io/repo/icon/wechat.png
 Name: 主题盒子
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/themebox/js.json
 
+Package: com.uckermark.siriplus
+Version: 1.3
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 1744
+Depends: dev.theos.orion (>= 1.0.0), com.opa334.ccsupport, mobilesubstrate, firmware (>= 13.0)
+Filename: ./debs/com.uckermark.siriplus_1.3_iphoneos-arm64.deb
+Size: 272160
+MD5sum: 4f79d547dc3e6ad71a6c1763bf6f5891
+SHA1: 7bcabae6c076c22ad42abd4ac9cad14a6ce9286a
+SHA256: 4fba874128fedc217d40f3267e183708f5b87e9d6f2476368fd11cdbbbb3b720
+Section: 系统增强
+Author: uckermark
+Icon: https://axs66.github.io/repo/icon/siri.png
+Name: SiriPlus
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/siriplus/js.json
+
+Package: com.udevs.dockx
+Version: 2.6.2
+Architecture: iphoneos-arm64
+Maintainer: udevs
+Installed-Size: 2068
+Depends: mobilesubstrate, preferenceloader, firmware(>=14.0)
+Conflicts: com.restiveconch.actionbar
+Filename: ./debs/com.udevs.dockx_2.6.2_iphoneos-arm64.deb
+Size: 421416
+MD5sum: 88b2d38f678bb6aebb5455d164763205
+SHA1: 5f7780b39bd1694d569ccbfc2f360cdece1e3259
+SHA256: fa24e04a44ec6a87cac2df9a67d6659521a06622f77981b8a18dcc375aab4338
+Section: Axs-Tweaks
+Description: Pasteboard shortcuts on your keyboard dock!
+Author: udevs
+Icon: https://udevsharold.github.io/repo/depictions/com.udevs.dockx/icon/icon.png
+Name: DockX
+Sileodepiction: https://axs6.github.io/repo/sileodepiction/dockx/js.json
+
 Package: netskao.wechatpurification
 Version: 4.2-6-END
 Architecture: iphoneos-arm64
@@ -91,4 +493,22 @@ Author: Netskao
 Icon: https://axs66.github.io/repo/icon/wechat.png
 Name: 微信净化END
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/wcpureextension/js.json
+
+Package: wiki.qaq.colorfulwallpaperx
+Version: 4.6
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/wiki.qaq.colorfulwallpaperx_4.6_iphoneos-arm64.deb
+Size: 1234132
+MD5sum: 50a3df827e36bd3cb081157c16047ac1
+SHA1: b5729b04a2a01b84697b302d612de3235358a11e
+SHA256: 579ab2f0a766935fcf4ba12dcaf527d80faf976509bc33104c63c434a380cedd
+Section: 系统增强
+Description: Dynamic wallpaper with colorful effects.
+Author: Lessica
+Depiction: Axs
+Icon: https://axs66.github.io/repo/icon/colorful.png
+Name: ColorfulWallpaperX
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
 
