@@ -93,6 +93,42 @@ Icon: https://axs66.github.io/repo/icon/wechat.png
 Name: 微信助手
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/miyou/js.json
 
+Package: com.Axs.dydqc
+Version: 8.8.8
+Architecture: iphoneos-arm64
+Maintainer: A
+Installed-Size: 13908
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.Axs.dydqc_8.8.8_iphoneos-arm64.deb
+Size: 2891992
+MD5sum: 9566da2682839b739648ca6c08de957e
+SHA1: 622c03573d7e2d5470c6a8018fd8417f9f1863d1
+SHA256: 64a6054392c5198fc83df3c83516d600c654cde1df638fad8388abd2c1c7fc50
+Section: Tweaks
+Description: 抖音插件，长期使用，真正无限制的使用！
+Author: A
+Icon: https://axs66.github.io/repo/icon/dy.png
+Name: 抖音大气层
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/dyhook/js.json
+
+Package: com.Axs.dydqc
+Version: 9.9.9
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 13908
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.Axs.dydqc_9.9.9_iphoneos-arm64.deb
+Size: 2898548
+MD5sum: c48752218eaaec4f236d6b26870d6fa8
+SHA1: ae94d4850051687f0af9999e9cf23eb2f4e81a60
+SHA256: 4ce42bfa61edea1e8b7666f0e496910da3de64023298d580b15858146bd4106e
+Section: Tweaks
+Description: 抖音插件，长期使用，真正无限制的使用！
+Author: x
+Icon: https://axs66.github.io/repo/icon/dy.png
+Name: 抖音大气层
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/dyhook/js.json
+
 Package: com.Axs.onesettings
 Version: 2.2
 Architecture: iphoneos-arm64
