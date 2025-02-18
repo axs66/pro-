@@ -93,24 +93,6 @@ Icon: https://axs66.github.io/repo/icon/wechat.png
 Name: 微信助手
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/miyou/js.json
 
-Package: com.Axs.dydqc
-Version: 9.9.9
-Architecture: iphoneos-arm64
-Maintainer: A
-Installed-Size: 8796
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.Axs.dydqc_9.9.9_iphoneos-arm64.deb
-Size: 2834268
-MD5sum: a9dda95e265016bb6c5482a0258dc233
-SHA1: a9e2d4c6305ed362e5813e17c2f0bd7097453881
-SHA256: 4e083ae59c2c923ec364db0b461a567aa3902dfac1961739971df721d3f771e2
-Section: Tweaks
-Description: 自用 越狱食用
-Author: A
-Icon: https://axs66.github.io/repo/icon/dy.png
-Name: 抖音大气层
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/dyhook/js.json
-
 Package: com.Axs.hooktc
 Version: 0.2
 Architecture: iphoneos-arm64
