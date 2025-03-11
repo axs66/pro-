@@ -244,6 +244,26 @@ Icon: https://axs66.github.io/repo/icon/wechat.png
 Name: WCTextColor
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/wctextcolor/js.json
 
+Package: com.axs66.dyjh
+Version: 2.1
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 432
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.Axs.dyjh_2.1-END_iphoneos-arm64.deb.deb
+Size: 55376
+MD5sum: 0a023a4fe77c672080604f2613cd49a8
+SHA1: 377add7f67506a7671d07f2061e8a48db2bf86bc
+SHA256: 7c8998da6a350cac901c7468806f9398aa8756245759a43f7ac1c6444f217534
+Section: Tweaks
+Priority: optional
+Homepage: https://github.com/axs66
+Description: 仅供学习交流，请在 24 小时内自觉删除。
+Author: Axs
+Icon: https://axs66.github.io/repo/icon/dy.png
+Name: 抖音净化
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/dyjh/js.json
+
 Package: com.edge.siri
 Version: 3.1.1-9
 Architecture: iphoneos-arm64
