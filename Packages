@@ -20,6 +20,24 @@ Icon: https://axs66.github.io/repo/icon/wechat.png
 Name: MisakaHelper
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/Misaka/js.json
 
+Package: ch.xxtou.xxtouch
+Version: 5.0
+Architecture: iphoneos-arm64
+Maintainer: 82Flex <82flex@gmail.com>
+Installed-Size: 38896
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Filename: ./debs/ch.xxtou.xxtouch_5.0_iphoneos-arm64.deb
+Size: 9611976
+MD5sum: 2be19fa97f3a0513cb3015cd1cc69f7d
+SHA1: 980ce9801de16ad4aad26ba789135aa802777541
+SHA256: 10f63499541dceb508ec86f7e0e66fa4b73b1472bb2ca61f35e553c7b63c5e60
+Section: 系统增强
+Description: XXTouch is a powerful and flexible automation tool for iOS.
+Author: 82Flex <82flex@gmail.com>
+Icon: https://axs66.github.io/repo/icon/xxtouch.png
+Name: XXTouch Elite
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/xxtouch/js.json
+
 Package: codes.aurora.kayoko
 Version: 2.7
 Architecture: iphoneos-arm64
@@ -114,6 +132,24 @@ Author: Mikoto
 Icon: https://axs66.github.io/repo/icon/wechat.png
 Name: MikotoHelper破解版
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/MikotoHelper/js.json
+
+Package: com.Axs.baidukeyboardhook
+Version: 1.1-5
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 380
+Depends: mobilesubstrate, firmware (>= 14.0)
+Filename: ./debs/com.Axs.baidukeyboardhook_1.1-5_iphoneos-arm64.deb
+Size: 75256
+MD5sum: efa20592f938429df9dfb8638bc94a56
+SHA1: c671eaa9e1a513e955f613b27dd0811d19e5bdf8
+SHA256: 2ff46618c8b751026f9b848bdb660720d0665ef7883d6daf99438bcd20baaadd
+Section: Tweaks
+Description: 百度键盘自定义(圆角，背景封面等)
+Author: Netskao
+Icon: https://axs66.github.io/repo/icon/baidukeyboardhook.png
+Name: BaiduKeyboardHook
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/baidukeyboardhook/js.json
 
 Package: com.Axs.dydqc
 Version: 8.8.8
@@ -243,6 +279,26 @@ Author: Axs
 Icon: https://axs66.github.io/repo/icon/wechat.png
 Name: WCTextColor
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/wctextcolor/js.json
+
+Package: com.axs.dytweak
+Version: 3.0.2
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 1056
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/抖音进化_3.0.2_无根.deb
+Size: 191128
+MD5sum: 928fbd19475458a91d2539365f95e2b2
+SHA1: 13d8d50bdc61079c51cab2f03df30c89eb7ad171
+SHA256: 245cbf43f98efce85c635c1ae16f6c674d6f043e13c860b7e434639c15787487
+Section: Tweaks
+Priority: optional
+Homepage: https://github.com/axs66
+Description: 仅供学习交流，请在 24 小时内自觉删除。
+Author: Axs
+Icon: https://axs66.github.io/repo/icon/dy.png
+Name: 抖音净化
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/dytweak/js.json
 
 Package: com.axs66.dyjh
 Version: 2.1
