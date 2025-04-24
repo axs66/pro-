@@ -111,6 +111,24 @@ Icon: https://axs66.github.io/repo/icon/wechat.png
 Name: 微信助手
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/miyou/js.json
 
+Package: com.82flex.artworkspinner
+Version: 1.6
+Architecture: iphoneos-arm64
+Maintainer: Lessica
+Installed-Size: 424
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: ./debs/com.82flex.artworkspinner_1.6_iphoneos-arm64.deb
+Size: 39184
+MD5sum: a211b896ef33e59aa09cbce8823cab4f
+SHA1: 4367b5b733d2595420c3861b25d86760d5eb6cc4
+SHA256: ce74f0e168a1efdc2fc51b8205922e71c21828316719c29df4302e2404b17351
+Section: Tweaks
+Description: 旋转专辑插图，支持灵动岛，控制中心，锁屏界面播放。配合源里面N95使用。
+Author: Lessica
+Icon: https://axs66.github.io/repo/icon/artworkspinner.png
+Name: 旋转专辑插图
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/artworkspinner/js.json
+
 Package: com.Axs.MikotoHelper
 Version: 1.3.6
 Architecture: iphoneos-arm64
