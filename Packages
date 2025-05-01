@@ -298,6 +298,24 @@ Icon: https://axs66.github.io/repo/icon/wechat.png
 Name: WCTextColor
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/wctextcolor/js.json
 
+Package: com.Axs.zhutiheziduihuan
+Version: 2.2+debug
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 404
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/盒子主题自动兑换_2.2_无根.deb
+Size: 52044
+MD5sum: c7fccd4a7f8ce9dc2f58f88999d2c338
+SHA1: 4f76a121105775c052e45787b93b114d5b011ece
+SHA256: e7760a3bfae9922bae000ea36bffe71891da9abb0848fd2f078375e91c47a11f
+Section: 微信插件
+Description: 自定兑换主题盒子，自动运行无设置
+Author: A
+Icon: https://axs66.github.io/repo/icon/wechat.png
+Name: 盒子主题自动兑换
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/zhutiheziduihuan/js.json
+
 Package: com.axs.dytweak
 Version: 3.0.2
 Architecture: iphoneos-arm64
