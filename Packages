@@ -262,6 +262,24 @@ Icon: https://axs66.github.io/repo/icon/reachplayer.png
 Name: ReachPlayer音乐专辑
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/reachplayer/js.json
 
+Package: com.Axs.reachplayer
+Version: 2.21-5
+Architecture: iphoneos-arm64
+Maintainer: ETHN
+Installed-Size: 4324
+Depends: mobilesubstrate, com.mrgcgamer.libgcuniversal
+Filename: ./debs/com.Axs.reachplayer_2.21-5_iphoneos-arm64.deb
+Size: 3543032
+MD5sum: 52ffe28dcc2860ec159a686d9161316d
+SHA1: 156f3044028873e40b8f6c101c41587b79c5b509
+SHA256: 54d596486ca3fa43b944e53c760ecf159a250affb763f2271725c7c33b84726f
+Section: Tweaks
+Description: 在便捷访问模式上方的空白处增加音乐控制器，基于开源优化编译。
+Author: ETHN
+Icon: https://axs66.github.io/repo/icon/reachplayer.png
+Name: ReachPlayer
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/reachplayer:js.json
+
 Package: com.Axs.split-view-pro
 Version: 1.3.7
 Architecture: iphoneos-arm64
