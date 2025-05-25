@@ -370,6 +370,23 @@ Icon: https://axs66.github.io/repo/icon/wechat.png
 Name: WCTextColor
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/wctextcolor/js.json
 
+Package: com.Axs.yuanjiao
+Version: 1.6.6
+Architecture: iphoneos-arm64
+Maintainer: WCYuanJiao
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 12.0)
+Filename: ./debs/com.Axs.yuanjiao_1.6.6_iphoneos-arm64.deb
+Size: 196676
+MD5sum: 436e6aa78108487e316bb42f4e0a31c8
+SHA1: b6d88c09f4e75f5556f86d41e16921671cb9fe72
+SHA256: 4dc42e9c48e7e77f15a4ada04fad9e88bd24263c7bf000d779ee48913122b4fa
+Section: 微信插件
+Description: 微信全局圆角，9.9元付费插件，添加微信VCR66T授权
+Author: WCYuanJiao
+Icon: https://axs66.github.io/repo/icon/wechat.png
+Name: 全局圆角
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/yuanjiao/js.json
+
 Package: com.Axs.zhutiheziduihuan
 Version: 2.2+debug
 Architecture: iphoneos-arm64
