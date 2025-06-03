@@ -223,6 +223,24 @@ Icon: https://axs66.github.io/repo/icon/keyboardhook.png
 Name: KeyboardHook原生输入法自定义
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/keyboardhook/js.json
 
+Package: com.Axs.musiclizi
+Version: 1.1.8
+Architecture: iphoneos-arm64
+Maintainer: Simon
+Installed-Size: 396
+Depends: mobilesubstrate
+Filename: ./debs/粒子动画_1.1.8_无根.deb
+Size: 23524
+MD5sum: d5d0049a89f36335f5358b41ae05c7b3
+SHA1: 885dcbd0e242803c66b86550984ad2fbf84d37ef
+SHA256: 109fdd436672b59b2891d0495cfc2f8e7e0ab7c7ac20fd2fc576466eb92483f9
+Section: 系统增强
+Description: 用于灵动岛粒子动画
+Author: A
+Icon: https://axs66.github.io/repo/icon/musiclizi.png
+Name: 粒子动画
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/musiclizi/js.json
+
 Package: com.Axs.onesettings
 Version: 2.2
 Architecture: iphoneos-arm64
@@ -608,6 +626,40 @@ Icon: https://axs66.github.io/repo/icon/tinge.png
 Name: Tinge角标自适应
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/tinge/js.json
 
+Package: com.susu.ccuiplayer
+Version: 1.0.7
+Architecture: iphoneos-arm64
+Maintainer: SuSu
+Installed-Size: 436
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.susu.ccuiplayer_1.0.7_iphoneos-arm64.deb
+Size: 48272
+MD5sum: 60b52cc90bacab3e953c6fa91413048a
+SHA1: e145028c02765fd8f7b48cd3ee3924d1fc3235be
+SHA256: d21ebeccb3760deaec5846adf86183dd93497c8662ec67ec7a0a8cbdb8c599b5
+Section: Tweaks
+Description: 控制中心音频窗口背景插件
+Author: SuSu
+Name: CCUIPlayer
+
+Package: com.susu.reachplayer
+Version: 4.1.3
+Architecture: iphoneos-arm64
+Maintainer: 苏苏
+Installed-Size: 3636
+Depends: mobilesubstrate
+Filename: ./debs/com.susu.reachplayer_4.1.3_iphoneos-arm64.deb
+Size: 1141804
+MD5sum: 4787f31d955a912b56335feaa85bf304
+SHA1: 44ebb5d930c17fbb119a6d5e18e5369ff80ddf0e
+SHA256: f9093e9bc5566b03733e8bb5214a7ac65dd5e0a1569d7e292a8aa15a5f3f3bdb
+Section: 插件
+Description: ReachPlayer便捷访问音乐专辑
+Author: 苏苏
+Icon: https://www.susubaby.top/json/ReachPlayer/icon.png
+Name: ReachPlayer音乐专辑
+Sileodepiction: https://www.susubaby.top/json/ReachPlayer/js.json
+
 Package: com.tencent.themebox
 Version: 1.0.1-1
 Architecture: iphoneos-arm64
@@ -715,4 +767,23 @@ Depiction: Axs
 Icon: https://axs66.github.io/repo/icon/colorful.png
 Name: ColorfulWallpaperX
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
+
+Package: xc.lzsxcl.o2pro
+Version: 17.12
+Architecture: iphoneos-arm64
+Maintainer: lzsxcl
+Installed-Size: 30264
+Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
+Filename: ./debs/xc.lzsxcl.o2pro_17.12_iphoneos-arm64.deb
+Size: 12408848
+MD5sum: 34df3332d7c09882c838e5148744f3fd
+SHA1: 8e326df1530f5aced2cc2b2d9f604c8ab2803194
+SHA256: a9d19cd3c04b0e6c75cf30bc9d706180edeafae8cf67c50cc86d311989fe8429
+Section: 分屏插件
+Description: 注重设计与用户体验的优雅产品。
+Author: lzsxcl
+Depiction: https://axs66.github.io/repo
+Icon: https://axs66.github.io/repo/icon/o2pro.png
+Name: o2Pro
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/o2pro/js.json
 
