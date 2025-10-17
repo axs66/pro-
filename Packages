@@ -187,6 +187,24 @@ Icon: https://axs66.github.io/repo/icon/dy.png
 Name: 抖音大气层
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/dyhook/js.json
 
+Package: com.Axs.eneko
+Version: 1.4-5
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 644
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Filename: ./debs/com.Axs.eneko_1.4-5_iphoneos-arm64.deb
+Size: 210616
+MD5sum: 9a71cd70a4044f6e7d410788175e6d49
+SHA1: 7e6409fbbf34edd108ed9d23a59d7ad24da0b868
+SHA256: 989b7101f7d667545808be8f6acb23445992bcace828265a6323e82d40fa4204
+Section: Tweaks
+Description: 使用自定义视频为锁屏与桌面壁纸，基于开源重新编译，去除LibGcUniversal依赖。
+Author: Traurige
+Icon: https://axs66.github.io/repo/icon/eneko.png
+Name: Eneko 动态壁纸
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/eneko/js.json
+
 Package: com.Axs.hooktcs
 Version: 0.3
 Architecture: iphoneos-arm64
