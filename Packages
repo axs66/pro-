@@ -280,6 +280,24 @@ Icon: https://axs66.github.io/repo/icon/onesettings.png
 Name: OneSettings
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/onesettings/js.json
 
+Package: com.Axs.pscamera
+Version: 0.0.1-4
+Architecture: iphoneos-arm64
+Maintainer: PoomSmart
+Installed-Size: 472
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.Axs.pscamera_0.0.1-4_iphoneos-arm64.deb
+Size: 60024
+MD5sum: e8ac6856cad071211052a1507fe80dee
+SHA1: 3aeee30478fadc3080a0916496b166c270500e39
+SHA256: a152f1efdcd390f1ce4c7a282fc68b4da4a44f93c3f51579aa8fc965e6621a69
+Section: 系统增强
+Description: 对PoomSmart大神的5个系统相机插件的代码进行了合并。
+Author: PoomSmart
+Icon: https://axs66.github.io/repo/icon/camera.png
+Name: PSCamera
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/camera/js.json
+
 Package: com.Axs.reachplayer
 Version: 2.21-3
 Architecture: iphoneos-arm64
