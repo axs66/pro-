@@ -241,6 +241,25 @@ Icon: https://axs66.github.io/repo/icon/keyboardhook.png
 Name: KeyboardHook原生输入法自定义
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/keyboardhook/js.json
 
+Package: com.Axs.lddgifbg
+Version: 1.0.3
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 356
+Depends: mobilesubstrate, oldabi
+Filename: ./debs/com.Axs.lddgifbg_1.0.3_iphoneos-arm64.deb
+Size: 167808
+MD5sum: 2e7a5c4b4601285817277ca4214f9670
+SHA1: a0e6a06ddd11b1e65b686872eae0450a645ea1f6
+SHA256: 3fd748cb476207d42f2e1d7beced8b614f38754876896857fb29dd6f2a3d5dcb
+Section: 灵动岛
+Description: 灵动岛 GIF背景
+Author: liuf
+Depiction: https://axs66.github.io/repo
+Icon: https://axs66.github.io/repo/icon/lddgifbg.png
+Name: 灵动岛 GIF背景
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/lddgifbg/js.json
+
 Package: com.Axs.musiclizi
 Version: 1.1.8
 Architecture: iphoneos-arm64
